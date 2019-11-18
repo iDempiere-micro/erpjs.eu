@@ -71,9 +71,9 @@ author:
 social-network-links:
   rss: true
   email: "info@naseukoly.cz"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  #facebook: deanattali
+  github: iDempiere-micro/erpjs
+  #twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
