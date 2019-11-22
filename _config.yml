@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: "@erpjs - serverless headless ERP&CRM for cloud that you own"
+title: "@erpjs - opensource serverless headless ERP&CRM for cloud that you own"
 
 # Short description of your site
-description: "@erpjs is the modern serverless headless ERP&CRM for cloud. Build on the latest technologies like TypeScript, Node.js, NestJS, TypeORM and Angular"
+description: "@erpjs is the modern opensource serverless headless ERP&CRM for cloud. Build on the latest technologies like TypeScript, Node.js, NestJS, TypeORM and Angular"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
